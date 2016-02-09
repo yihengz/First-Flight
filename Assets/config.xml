@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Microphones>
+    <Microphone DeviceName="Microphone (Realtek High Definition Audio)">
+      <MicSensitivity>250</MicSensitivity>
+      <LowPassCutOff>1200</LowPassCutOff>
+      <HighPassCutOff>100</HighPassCutOff>
+    </Microphone>
+  </Microphones>
+</Configuration>
